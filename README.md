@@ -32,6 +32,17 @@ in a real engineering codebase.
 - **Dockerized** — one command to build and run the app anywhere.
 - **CI-ready** — GitHub Actions workflow lints and tests on every push/PR.
 
+## Screenshots
+
+**Empty state — upload prompt**
+![Empty state](screenshots/empty-state.png)
+
+**File uploaded and indexed**
+![File uploaded and indexed](screenshots/file-uploaded.png)
+
+**Search results**
+![Search results](screenshots/search-results.png)
+
 ## Architecture
 
 ```
