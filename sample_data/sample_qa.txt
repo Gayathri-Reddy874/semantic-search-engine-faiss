@@ -1,0 +1,20 @@
+What is machine learning?
+Machine learning is a field of AI where systems learn patterns from data instead of being explicitly programmed.
+What is a neural network?
+A neural network is a computational model made of layered nodes inspired loosely by the brain, used to learn complex patterns.
+What is FAISS?
+FAISS is a library from Meta AI for efficient similarity search and clustering of dense vectors.
+What is a vector embedding?
+A vector embedding is a numeric representation of text, images, or other data that captures semantic meaning in a fixed-size array.
+What is semantic search?
+Semantic search retrieves results based on meaning and context rather than exact keyword matches.
+What is cosine similarity?
+Cosine similarity measures how similar two vectors are by the cosine of the angle between them, ignoring magnitude.
+What is Streamlit?
+Streamlit is a Python framework for building interactive data and machine learning web apps with minimal code.
+What is a sentence transformer?
+A sentence transformer is a model that encodes full sentences into dense vector embeddings suitable for comparison.
+What is an L2 distance?
+L2 distance, or Euclidean distance, measures the straight-line distance between two points in vector space.
+What is retrieval augmented generation?
+Retrieval augmented generation combines a search step over a knowledge base with a generative model to produce grounded answers.
