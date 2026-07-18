@@ -1,5 +1,12 @@
 # 🔍 Semantic Search Engine
 
+[![CI](https://github.com/Gayathri-Reddy874/semantic-search-engine-faiss/actions/workflows/ci.yml/badge.svg)](https://github.com/Gayathri-Reddy874/semantic-search-engine-faiss/actions/workflows/ci.yml)
+[![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/)
+[![Streamlit](https://img.shields.io/badge/streamlit-1.38.0-FF4B4B.svg?logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![FAISS](https://img.shields.io/badge/FAISS-vector%20search-4B8BBE.svg)](https://github.com/facebookresearch/faiss)
+[![Tests](https://img.shields.io/badge/tests-12%20passing-brightgreen.svg)](tests/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
+
 A production-style semantic search application: upload a plain-text knowledge base,
 embed it with a Sentence Transformer, index it with FAISS, and query it in natural
 language through a Streamlit UI.
@@ -81,8 +88,8 @@ semantic-search-engine/
 ## Setup & Installation
 
 ```bash
-git clone <your-repo-url>
-cd semantic-search-engine
+git clone https://github.com/Gayathri-Reddy874/semantic-search-engine-faiss.git
+cd semantic-search-engine-faiss
 python -m venv venv
 source venv/bin/activate      # Windows: venv\Scripts\activate
 pip install -r requirements.txt
@@ -144,6 +151,14 @@ docker run -p 8501:8501 semantic-search-engine
 - Add a hybrid search mode (BM25 + semantic) for better precision on exact terms.
 - Add a `/save` and `/load` UI action so users can persist an index across sessions.
 - Deploy to Streamlit Community Cloud or a small cloud VM behind the Docker image.
+
+## Author
+
+**Mallareddygari Gayathri**
+AI/ML Engineering graduate | Aspiring Data Analyst → Data Scientist / AI-ML Engineer
+
+- GitHub: [Gayathri-Reddy874](https://github.com/Gayathri-Reddy874)
+- LinkedIn: [add your LinkedIn URL here]
 
 ## License
 
