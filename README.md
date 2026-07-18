@@ -81,8 +81,8 @@ semantic-search-engine/
 ## Setup & Installation
 
 ```bash
-git clone https://github.com/Gayathri-Reddy874/semantic-search-engine-faiss.git
-cd semantic-search-engine-faiss
+git clone <your-repo-url>
+cd semantic-search-engine
 python -m venv venv
 source venv/bin/activate      # Windows: venv\Scripts\activate
 pip install -r requirements.txt
