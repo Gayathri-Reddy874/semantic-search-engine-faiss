@@ -12,7 +12,7 @@ embed it with a Sentence Transformer, index it with FAISS, and query it in natur
 language through a Streamlit UI.
 
 This started as a single-file Colab script and was refactored into a modular,
-tested, containerized project — the structure a hiring manager expects to see
+tested, containerized project - the structure a hiring manager expects to see
 in a real engineering codebase.
 
 ## Features
