@@ -25,7 +25,7 @@ in a real engineering codebase.
   content actually changes, not on every Streamlit rerun.
 - **Persistence** - `SemanticSearchEngine.save()` / `.load()` let you serialize
   an index to disk and reload it without re-embedding.
-- **Error handling** — invalid, empty, or oversized uploads fail gracefully with
+- **Error handling** - invalid, empty, or oversized uploads fail gracefully with
   a clear message instead of a stack trace.
 - **Automated tests** — 12 unit tests covering the document loader and search
   engine, including edge cases (empty index, empty query, odd line counts).
