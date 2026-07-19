@@ -23,7 +23,7 @@ in a real engineering codebase.
   loading, and search are separated into independent, unit-tested modules.
 - **Content-hash caching** - the index is only rebuilt when the uploaded file's
   content actually changes, not on every Streamlit rerun.
-- **Persistence** — `SemanticSearchEngine.save()` / `.load()` let you serialize
+- **Persistence** - `SemanticSearchEngine.save()` / `.load()` let you serialize
   an index to disk and reload it without re-embedding.
 - **Error handling** — invalid, empty, or oversized uploads fail gracefully with
   a clear message instead of a stack trace.
