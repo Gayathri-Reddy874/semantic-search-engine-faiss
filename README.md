@@ -21,7 +21,7 @@ in a real engineering codebase.
   `sentence-transformers` embeddings and a FAISS `IndexFlatL2` similarity index.
 - **Layered architecture** - UI (`app.py`), configuration, embeddings, document
   loading, and search are separated into independent, unit-tested modules.
-- **Content-hash caching** — the index is only rebuilt when the uploaded file's
+- **Content-hash caching** - the index is only rebuilt when the uploaded file's
   content actually changes, not on every Streamlit rerun.
 - **Persistence** — `SemanticSearchEngine.save()` / `.load()` let you serialize
   an index to disk and reload it without re-embedding.
