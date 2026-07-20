@@ -29,7 +29,7 @@ in a real engineering codebase.
   a clear message instead of a stack trace.
 - **Automated tests** - 12 unit tests covering the document loader and search
   engine, including edge cases (empty index, empty query, odd line counts).
-- **Dockerized** — one command to build and run the app anywhere.
+- **Dockerized** - one command to build and run the app anywhere.
 - **CI-ready** — GitHub Actions workflow lints and tests on every push/PR.
 
 ## Screenshots
