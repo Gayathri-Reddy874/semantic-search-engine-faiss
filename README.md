@@ -34,7 +34,7 @@ in a real engineering codebase.
 
 ## Screenshots
 
-**Empty state — upload prompt**
+**Empty state - upload prompt**
 ![Empty state](screenshots/empty-state.png)
 
 **File uploaded and indexed**
