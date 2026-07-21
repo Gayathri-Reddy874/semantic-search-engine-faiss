@@ -166,6 +166,7 @@ docker run -p 8501:8501 semantic-search-engine
 ## Author
 
 **Mallareddygari Gayathri**
+
 AI/ML Engineering graduate | Aspiring Data Analyst → Data Scientist / AI-ML Engineer
 
 - GitHub: [Gayathri-Reddy874](https://github.com/Gayathri-Reddy874)
