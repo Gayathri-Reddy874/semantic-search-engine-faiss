@@ -170,7 +170,7 @@ docker run -p 8501:8501 semantic-search-engine
 AI/ML Engineering graduate | Data Analyst → Data Scientist / AI-ML Engineer
 
 - GitHub: [Gayathri-Reddy874](https://github.com/Gayathri-Reddy874)
-- LinkedIn: [add your LinkedIn URL here]
+- LinkedIn: [Mallareddygari Gayathri](https://www.linkedin.com/in/mallareddygari-gayathri/).
 
 ## License
 
