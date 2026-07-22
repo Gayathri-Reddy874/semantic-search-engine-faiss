@@ -174,4 +174,4 @@ AI/ML Engineering graduate | Data Analyst → Data Scientist / AI-ML Engineer
 
 ## License
 
-MIT — free to use and adapt for your own portfolio.
+MIT - free to use and adapt for your own portfolio.
