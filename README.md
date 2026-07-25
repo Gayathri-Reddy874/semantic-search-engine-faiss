@@ -129,6 +129,8 @@ streamlit run app.py
 Then open the local URL Streamlit prints (usually `http://localhost:8501`), upload
 `sample_data/sample_qa.txt` (or your own file in the same format), and search.
 
+---
+
 **Expected input format** - alternating question/answer lines:
 
 ```
