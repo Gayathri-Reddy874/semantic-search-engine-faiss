@@ -80,6 +80,8 @@ Uploaded .txt file
 | Containerization   | Docker                                  |
 | CI                 | GitHub Actions                          |
 
+---
+
 ## Project Structure
 
 ```
