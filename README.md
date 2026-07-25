@@ -47,6 +47,8 @@ in a real engineering codebase.
 **Search results**
 ![Search results](screenshots/search-results.png)
 
+---
+
 ## Architecture
 
 ```
