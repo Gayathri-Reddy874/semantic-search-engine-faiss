@@ -34,6 +34,8 @@ in a real engineering codebase.
 - **Dockerized** - one command to build and run the app anywhere.
 - **CI-ready** - GitHub Actions workflow lints and tests on every push/PR.
 
+---
+
 ## Screenshots
 
 **Empty state - upload prompt**
