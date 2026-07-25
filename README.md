@@ -104,6 +104,8 @@ semantic-search-engine/
 └── .gitignore
 ```
 
+---
+
 ## Setup & Installation
 
 ```bash
