@@ -67,6 +67,8 @@ Uploaded .txt file
  app.py (Streamlit)    →  file upload, query input, ranked result cards
 ```
 
+---
+
 ## Tech Stack
 
 | Layer            | Technology                              |
