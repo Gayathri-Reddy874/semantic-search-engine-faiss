@@ -179,6 +179,8 @@ docker run -p 8501:8501 semantic-search-engine
 - Add a `/save` and `/load` UI action so users can persist an index across sessions.
 - Deploy to Streamlit Community Cloud or a small cloud VM behind the Docker image.
 
+---
+
 ## Author
 
 **Mallareddygari Gayathri**
