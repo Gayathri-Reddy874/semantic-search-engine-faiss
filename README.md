@@ -175,6 +175,8 @@ docker run -p 8501:8501 semantic-search-engine
   type-checkable without pulling in a full schema library like Pydantic for
   something this small.
 
+---
+
 ## Future Improvements
 
 - Support additional input formats (CSV, JSON, PDF) via pluggable loaders.
