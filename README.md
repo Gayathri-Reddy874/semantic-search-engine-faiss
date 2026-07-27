@@ -162,6 +162,8 @@ docker build -t semantic-search-engine .
 docker run -p 8501:8501 semantic-search-engine
 ```
 
+---
+
 ## Design Decisions
 
 - **`IndexFlatL2` over an approximate index (e.g. HNSW/IVF):** exact search is
