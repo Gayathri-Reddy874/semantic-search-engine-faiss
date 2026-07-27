@@ -153,6 +153,8 @@ pytest --cov=src --cov-report=term-missing
 files) and the search engine (build/search/save/load, empty-index and empty-query
 error handling, top-k capping).
 
+---
+
 ## Docker
 
 ```bash
