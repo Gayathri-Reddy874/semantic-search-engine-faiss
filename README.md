@@ -140,6 +140,8 @@ What is FAISS?
 FAISS is a library for efficient similarity search over dense vectors.
 ```
 
+---
+
 ## Running Tests
 
 ```bash
