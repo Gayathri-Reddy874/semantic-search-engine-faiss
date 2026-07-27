@@ -194,6 +194,8 @@ AI/ML Engineering graduate | Data Analyst → Data Scientist / AI-ML Engineer
 - GitHub: [Gayathri-Reddy874](https://github.com/Gayathri-Reddy874)
 - LinkedIn: [Mallareddygari Gayathri](https://www.linkedin.com/in/mallareddygari-gayathri/).
 
+---
+
 ## License
 
 MIT - free to use and adapt for your own portfolio.
